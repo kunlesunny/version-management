@@ -9,8 +9,7 @@
   <version>1.0.0-SNAPSHOT</version>
 
   <name>version-management</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <description>jar version management</description>
 
   <!-- 在 properties 下声明相应的版本信息，然后在 dependency 下引用的时候用 ${} 就可以引入该版本 jar 包了 -->
   <properties>
