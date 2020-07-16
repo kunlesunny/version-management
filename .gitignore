@@ -9,3 +9,4 @@
 target/maven-archiver/pom.properties
 target/version-management-1.0.0-SNAPSHOT.jar
 version-management.iml
+.idea/jarRepositories.xml
